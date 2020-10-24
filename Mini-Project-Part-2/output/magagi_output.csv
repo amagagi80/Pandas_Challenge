@@ -8,11 +8,11 @@ Hack Reactor,29,27.0,93.10000000000001
 Turing,27,26.0,96.3
 App Academy,22,20.0,90.9
 Hackbright Academy,22,19.0,86.4
-Code Fellows,21,15.0,71.39999999999999
 Bloc.io,21,11.0,52.400000000000006
-Galvanize,20,11.0,55.00000000000001
+Code Fellows,21,15.0,71.39999999999999
 MakerSquare,20,18.0,90.0
 New York Code + Design Academy,20,14.0,70.0
+Galvanize,20,11.0,55.00000000000001
 Coding Dojo,18,11.0,61.1
 The Firehose Project,16,13.0,81.2
 "Free Code Camp is not a bootcamp - please scroll up and change answer to ""no""",15,14.0,93.30000000000001
@@ -21,109 +21,109 @@ Dev Academy,13,13.0,100.0
 Makers Academy,12,12.0,100.0
 Tech Talent South,12,8.0,66.7
 Coder Camps,11,6.0,54.50000000000001
-Software Guild,10,8.0,80.0
-Codeup,10,6.0,60.0
-Launch Academy,10,8.0,80.0
-Viking Code School,10,10.0,100.0
 DevMountain,10,8.0,80.0
+Software Guild,10,8.0,80.0
+Launch Academy,10,8.0,80.0
+Codeup,10,6.0,60.0
+Viking Code School,10,10.0,100.0
 Ada,9,8.0,88.9
 4Geeks Academy,8,4.0,50.0
 CodeaCamp,8,8.0,100.0
-IronHack,7,5.0,71.39999999999999
 CodeNinja,7,5.0,71.39999999999999
-Anyone Can Learn To Code,7,5.0,71.39999999999999
 Startup Institute,7,4.0,57.099999999999994
+Anyone Can Learn To Code,7,5.0,71.39999999999999
+IronHack,7,5.0,71.39999999999999
 Fullstack Academy,6,6.0,100.0
-Thinkful,6,5.0,83.3
 Wyncode,6,3.0,50.0
-CareerFoundry,5,4.0,80.0
+Thinkful,6,5.0,83.3
 10x.org.il,5,3.0,60.0
 Nashville Software School,5,4.0,80.0
-Bitmaker Labs,5,3.0,60.0
 CodeCore Bootcamp,5,3.0,60.0
+Bitmaker Labs,5,3.0,60.0
+CareerFoundry,5,4.0,80.0
+Lighthouse Labs,4,3.0,75.0
+Sabio.la,4,3.0,75.0
+Academia de Código,4,4.0,100.0
+RefactorU,4,2.0,50.0
+Devschool,4,2.0,50.0
+Codesmith,4,2.0,50.0
+Bit Bootcamp,4,2.0,50.0
+LAMP Camp,4,3.0,75.0
 Skillcrush,4,3.0,75.0
 Camp Code Away,4,2.0,50.0
-Devschool,4,2.0,50.0
-Academia de Código,4,4.0,100.0
-Lighthouse Labs,4,3.0,75.0
-LAMP Camp,4,3.0,75.0
-RefactorU,4,2.0,50.0
-devCodeCamp,4,4.0,100.0
-Codesmith,4,2.0,50.0
 Codify Academy,4,1.0,25.0
 Rutgers Coding Bootcamp,4,3.0,75.0
-Bit Bootcamp,4,2.0,50.0
-Sabio.la,4,3.0,75.0
-Starter League,3,1.0,33.300000000000004
-Dev League,3,3.0,100.0
-BrainStation,3,2.0,66.7
-Orange County Code School,3,2.0,66.7
-Tech Academy Portland,3,2.0,66.7
-Grace Hopper Academy,3,3.0,100.0
-V School,3,1.0,33.300000000000004
-Learn.Modern-Developer,3,2.0,66.7
-tradecraft,3,1.0,33.300000000000004
-We Can Code IT,3,1.0,33.300000000000004
+devCodeCamp,4,4.0,100.0
 Coding House,3,1.0,33.300000000000004
+Dev League,3,3.0,100.0
+Tech Academy Portland,3,2.0,66.7
+Orange County Code School,3,2.0,66.7
+tradecraft,3,1.0,33.300000000000004
+Starter League,3,1.0,33.300000000000004
+Grace Hopper Academy,3,3.0,100.0
 Grand Circus,3,3.0,100.0
 Zip Code Wilmington,3,1.0,33.300000000000004
+V School,3,1.0,33.300000000000004
+Learn.Modern-Developer,3,2.0,66.7
 LEARN Academy,3,3.0,100.0
-Eleven Fifty Academy,2,2.0,100.0
-Big Nerd Ranch,2,2.0,100.0
-Codecademy Labs,2,2.0,100.0
-DaVinci Coders,2,0.0,0.0
-Code Platoon,2,2.0,100.0
-LearningFuze,2,1.0,50.0
-Coder Factory,2,2.0,100.0
-Mobile Makers Academy,2,1.0,50.0
-Telegraph Academy,2,2.0,100.0
+We Can Code IT,3,1.0,33.300000000000004
+BrainStation,3,2.0,66.7
 Digital House,2,1.0,50.0
-DigitalCrafts,2,2.0,100.0
-Omaha Code School,2,2.0,100.0
-PDX Code Guild,2,1.0,50.0
-HackerYou,2,1.0,50.0
-We Got Coders,2,2.0,100.0
 Metis,2,1.0,50.0
+Coder Factory,2,2.0,100.0
+AcadGild,2,2.0,100.0
+Eleven Fifty Academy,2,2.0,100.0
+DigitalCrafts,2,2.0,100.0
+Mobile Makers Academy,2,1.0,50.0
+Codecademy Labs,2,2.0,100.0
+We Got Coders,2,2.0,100.0
+Omaha Code School,2,2.0,100.0
+DaVinci Coders,2,0.0,0.0
+HackerYou,2,1.0,50.0
+Code Platoon,2,2.0,100.0
+PDX Code Guild,2,1.0,50.0
+Big Nerd Ranch,2,2.0,100.0
+Fire Bootcamp,2,1.0,50.0
 CODEcamp Charleston,2,2.0,100.0
+Telegraph Academy,2,2.0,100.0
+LearningFuze,2,1.0,50.0
 BoiseCodeWorks,2,2.0,100.0
 EHD Academy,2,2.0,100.0
-Fire Bootcamp,2,1.0,50.0
-AcadGild,2,2.0,100.0
-Base10 Academy,1,1.0,100.0
-codeU,1,1.0,100.0
-Operation Spark,1,1.0,100.0
-AngelHack Education,1,1.0,100.0
-Code 42,1,1.0,100.0
+Alphappl,1,0.0,0.0
+Founders & Coders,1,1.0,100.0
+World Tech Makers,1,0.0,0.0
+Launch School (formerly Tealeaf Academy),1,1.0,100.0
+CodeCraft School,1,1.0,100.0
 Academy X,1,0.0,0.0
-Coder Foundry,1,1.0,100.0
+Betamore,1,1.0,100.0
+Montana Code School,1,0.0,0.0
+SeedPaths,1,1.0,100.0
+codeU,1,1.0,100.0
+Ruby On The Beach,1,1.0,100.0
+Le Wagon,1,1.0,100.0
+Interface Web School,1,0.0,0.0
+Claim Academy,1,1.0,100.0
+The Data Incubator,1,1.0,100.0
 Data Science Dojo,1,0.0,0.0
+Science to Data Science,1,1.0,100.0
+Base10 Academy,1,1.0,100.0
+Code Institute,1,1.0,100.0
+Origin Code Academy,1,1.0,100.0
 CodeMasters Academy,1,1.0,100.0
+Code 42,1,1.0,100.0
+DESIGNATION,1,1.0,100.0
+Astro Code School,1,0.0,0.0
+TalentBuddy,1,0.0,0.0
+AngelHack Education,1,1.0,100.0
+Academic Work Academy,1,0.0,0.0
+Coder's Lab,1,1.0,100.0
 Code For Progress,1,0.0,0.0
 Code Union,1,1.0,100.0
-Science to Data Science,1,1.0,100.0
-Atlanta Code,1,0.0,0.0
-Ruby On The Beach,1,1.0,100.0
-Code Institute,1,1.0,100.0
-Ladies Learning Code,1,1.0,100.0
-SeedPaths,1,1.0,100.0
-Le Wagon,1,1.0,100.0
-Betamore,1,1.0,100.0
-World Tech Makers,1,0.0,0.0
-Founders & Coders,1,1.0,100.0
-Interface Web School,1,0.0,0.0
-Astro Code School,1,0.0,0.0
-Claim Academy,1,1.0,100.0
-Byte Academy,1,1.0,100.0
-CodeCraft School,1,1.0,100.0
 Stackademy,1,1.0,100.0
-Academic Work Academy,1,0.0,0.0
-DESIGNATION,1,1.0,100.0
+Coder Foundry,1,1.0,100.0
 Austin Coding Academy,1,1.0,100.0
-Montana Code School,1,0.0,0.0
-The Data Incubator,1,1.0,100.0
-Launch School (formerly Tealeaf Academy),1,1.0,100.0
-Alphappl,1,0.0,0.0
-TalentBuddy,1,0.0,0.0
-Coder's Lab,1,1.0,100.0
+Operation Spark,1,1.0,100.0
+Ladies Learning Code,1,1.0,100.0
+Byte Academy,1,1.0,100.0
 Microsoft Research Data Science Summer School,1,1.0,100.0
-Origin Code Academy,1,1.0,100.0
+Atlanta Code,1,0.0,0.0
