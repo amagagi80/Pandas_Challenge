@@ -1586,6 +1586,74 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "31.066014669926652"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Calculate average age of attendees\n",
+    "avg = df_attended['Age'].astype(float).mean()\n",
+    "avg"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "953"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\n",
+    "# Calculate how many people attended a bootcamp\n",
+    "attended = df_attended.loc[df_attended['AttendedBootcamp']=='yes']\n",
+    "attended = len(attended)\n",
+    "attended"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "832"
+      ]
+     },
+     "execution_count": 12,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Calculate how many attendees hold degrees\n",
+    "degrees = df_attended['SchoolDegree'].count()\n",
+    "degrees"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": 13,
    "metadata": {},
    "outputs": [
@@ -1601,20 +1669,9 @@
     }
    ],
    "source": [
-    "# Calculate average age of attendees\n",
-    "avg = df_attended['Age'].astype(float).mean()\n",
-    "avg\n",
     "\n",
-    "# Calculate how many people attended a bootcamp\n",
-    "attended = df_attended.loc[df_attended['AttendedBootcamp']=='yes']\n",
-    "attended = len(attended)\n",
-    "attended\n",
     "\n",
-    "# Calculate how many attendees hold degrees\n",
-    "df_attended['SchoolDegree'].unique()\n",
-    "df_attended\n",
-    "degrees = df_attended['SchoolDegree'].count()\n",
-    "degrees\n",
+    "\n",
     "\n",
     "# Count number of attendees who self-identify as male; female; or are of non-binary gender identification\n",
     "\n",
@@ -1814,13 +1871,6 @@
     "# Export to Excel\n",
     "attended_df.to_csv(\"output/magagi_output.csv\", index=False, header=True)"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
